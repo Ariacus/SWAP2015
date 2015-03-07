@@ -29,7 +29,7 @@ Ejercicio T2.1: Calcular la disponibilidad del sistema descrito en edgeblog.net 
 	Hemos pasado de un 94.35% duplicando dos veces cada elemento, a un 99.2037% duplicando tres veces cada elemento (excepto el data center)
 
 
-Ejercicio T2.2: Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. Como ejemplo, examina PM2: https://github.com/Unitech/pm2 que sirve para administrar clústeres de NodeJS.
+	Ejercicio T2.2: Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. Como ejemplo, examina PM2: https://github.com/Unitech/pm2 que sirve para administrar clústeres de NodeJS.
 
 
 	-Kumbia Enterprise FrameWork: es un framework para php (un fork de KumbiaPHP), una de sus bazas es el uso de componentes ACL lo que permite controlar el flujo del tráfico en equipos de redes, lo que nos permite filtrar el tráfico de nuestro servidor.
