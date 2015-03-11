@@ -16,4 +16,11 @@ Vemos como en nuestro Server14B (derecha), en un principio no hay nada y posteri
 
 ![](http://i.imgur.com/dqGdRTP.png)
 
+***3. Configuración de ssh para acceder sin que solicite contraseña***
+
+Podemos ver como en Server14B, al conectarnos a Server14 no nos ha pedido la contraseña.
+
+![](http://i.imgur.com/aG8gYok.png)
+
+
 

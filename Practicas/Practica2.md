@@ -22,5 +22,8 @@ Podemos ver como en Server14B, al conectarnos a Server14 no nos ha pedido la con
 
 ![](http://i.imgur.com/aG8gYok.png)
 
+Aquí accedemos como root. He tenido problemas a la hora de acceder como root, ya que me rechazaba el acceso. Para solucionarlo, he ido al archivo "/etc/ssh/sshd_config" y en la línea que pone "PermitRootLogin" puse el valor "yes". Después de hacer eso hay que hacer un restart al ssh. (service ssh restart)
 
+
+![](http://i.imgur.com/iyDQBd4.png)
 
