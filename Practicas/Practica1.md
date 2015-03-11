@@ -18,6 +18,6 @@ en un archivo de texto y se subirán a la cuenta de github.***
 
 Podemos comprobar que la máquina que se ve a la derecha (Server14B), está conectada a la de la izquierda (Server14). Podemos ver que la dirección es la misma.
 
-![](http://screencloud.net/v/jXUK)
+![](https://sc-cdn.scaleengine.net/i/096359149d199dd10b455f4668066e4c.png)
 
 

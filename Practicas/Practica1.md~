@@ -16,3 +16,8 @@ en un archivo de texto y se subirán a la cuenta de github.***
 ***2. Mostramos las máquinas conectadas entre sí mediante ssh***
 
 
+Podemos comprobar que la máquina que se ve a la derecha (Server14B), está conectada a la de la izquierda (Server14). Podemos ver que la dirección es la misma.
+
+![](http://screencloud.net/v/jXUK)
+
+
