@@ -81,6 +81,7 @@ Ejercicio T2.4: En este ejercicio debemos buscar diferentes tipos de productos: 
 
 		-Dell PowerVault RD1000 con 2 cartuchos hasta 320GB por 359€
 		-Dell PowerVault PV110T Tape Drive con 5 cartuchos de 400GB por 1859€
+		-Servidor NAS Synology DS115j acepta hasta 1 HD de hasta 6TB por 92€ (opción económica)
 
 
 
