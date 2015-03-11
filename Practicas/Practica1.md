@@ -5,4 +5,4 @@ apache2 -v
 ps aux | grep apache
 en un archivo de texto y se subirán a la cuenta de github.
 
-!()[https://sc-cdn.scaleengine.net/i/cc0f9318cdb2d4ffb534eab38587e9b6.png]
+![](https://sc-cdn.scaleengine.net/i/cc0f9318cdb2d4ffb534eab38587e9b6.png)
