@@ -27,3 +27,24 @@ Aquí accedemos como root. He tenido problemas a la hora de acceder como root, y
 
 ![](http://i.imgur.com/iyDQBd4.png)
 
+
+***4. Establecer una tarea en cron que se ejecute cada hora para mantener actualizado el contenido del directorio /var/www entre las dos máquinas***
+
+
+Podemos ver que no hay nada en la carpeta /var/www de Server14B:
+
+![](http://i.imgur.com/8hg0iZr.png)
+
+Obsérvese la hora.
+
+Añadimos al crontab la línea para que se actualice:
+
+![](http://i.imgur.com/84U1i37.png)
+
+Ahora vemos como (llegando el momento, cualquier hora a las 23 minutos) se ha copiado lo que contenia la carpeta /var/www de Server14.
+
+
+![](http://i.imgur.com/R6SOsYR.png)
+
+
+
