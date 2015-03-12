@@ -1,0 +1,39 @@
+
+
+Preguntas tipo test:
+
+1. ¿Cual de las siguientes afirmaciones es falsa cuando hablamos de diseñar la escalabilidad de un servidor?
+
+	a. Diseñar aplicaciones no-conmutables, ya que en este caso, dos o más operaciones se pueden aplicar en cualquier orden y obtener el mismo resultado
+
+	b. Un proceso no debe esperar nunca mas de lo necesario
+
+	c. Siempre que podamos, debemos diseñar aplicaciones intercambiables
+
+	d. Debe particionar los recursos y las actividades. Al minimizar las relaciones entre recursos y entre actividades, minimiza el riesgo de crear cuellos de 		botella resultantes de un participante de la relación que tarda más que el otro
+
+	Respuesta correcta: a
+
+2. ¿Qué estamos haciendo cuando realizamos una ampliación vertical a un servidor?:
+
+	a. Incremental la RAM, el disco duro ... y en general cualquier elemento físico de éste.
+
+	b. Añadir réplicas a algun subsistema. (un nuevo servidor web, nuevo servidor de datos..)
+
+	c. La dos anteriores son correctas
+
+	d. Todas las anteriores son falsas
+
+	Respuesta correcta: a
+
+3. ¿Cómo se mejora la disponibilidad de un servidor?
+
+	a. Replicando elementos hardware
+
+	b. Replicando elementos de red
+
+	c. Realizando un desarrollo robusto
+
+	d. Todas las anteriores son correctas
+
+	Respuesta correcta: d

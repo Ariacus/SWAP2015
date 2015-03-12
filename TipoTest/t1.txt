@@ -1,0 +1,31 @@
+
+
+Preguntas tipo test:
+
+1. ¿Qué ventaja nos proporciona adquirir un segundo servidor para desarrollo?
+
+	a. Se resuelven los problemas derivados de un alto tráfico al trabajar en conjunto con nuestro servidor
+
+	b. Mejora la disponibilidad al funcionar como si fuese un disco espejo replicando lo que contiene nuestro servidor principal
+
+	c. Las mejoras en software se pueden probar en la máquina de desarrollo antes de pasarlas al servidor de producción 
+
+	d. Todas las anteriores son falsas
+
+	Respuesta correcta: c
+
+2. Una granja web es:
+
+	a. Un sistema complejo y poco flexible, pero cuya funcionalidad nos permite trabajar con sitios de un tráfico enorme
+
+	b. Un sitio en el cual conviven animales y páginas web
+
+	c. Un sistema que nos permite alojar muchos sitios webs correspondientes a varias empresas por ejemplo, con una gran flexibilidad y funcionalidad.
+
+	d. Todas las anteriores son falsas
+
+	Respuesta correcta: c
+
+
+
+

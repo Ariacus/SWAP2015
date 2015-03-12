@@ -1,0 +1,25 @@
+Preguntas tipo test:
+
+1. ¿Cual de las siguientes afirmaciones es falsa cuando hablamos de DMZ?
+
+	a. Una DMZ se crea a menudo a través de las opciones de configuración del cortafuegos, donde cada red se conecta a un puerto distinto de éste.
+
+	b. La DMZ se usa habitualmente para ubicar servidores que es necesario que sean accedidos desde fuera, como servidores de correo electrónico, Web y DNS
+
+	c. El objetivo de una DMZ es que las conexiones desde la red interna y la externa a la DMZ estén permitidas, mientras que en general las conexiones desde la DMZ 		solo se permitan a la red externa
+
+	d. Todas las anteriores son falsas
+
+	Respuesta correcta: d
+
+2. ¿Que ventajas tiene mapear una dirección IP pública a una privada utilizando NAT?
+
+	a. Porque mejora la seguridad al ocultar las verdaderas direcciones IP de los servidores.
+
+	b. Porque mejora la escalabilidad de nuestro servidor al mejorar el ancho de banda, ya que permite un tráfico mas fluido.
+
+	c. a) y b) son ciertas
+
+	d. Todas las anteriores son falsas.
+
+	Respuesta correcta: a
