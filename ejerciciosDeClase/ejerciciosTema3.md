@@ -21,7 +21,7 @@ O en tareas de configuración inicial -> Personalizar este servidor -> Agregar f
 Cuando estemos en la lista de servicios de función, seleccionaremos Servicios de enrutamiento y acceso remoto para seleccionar todos los servicios de función.
 
 
-***Ejercicio T3.2: Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes.***
+***Ejercicio T3.2: Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado y bloqueo de paquetes. 
 
 Para sistema Unix, podemos utilizar "iptables" para IPv4, o "ip6tables" para IPv6.
 
