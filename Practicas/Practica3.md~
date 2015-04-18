@@ -27,17 +27,8 @@ Aquí podemos ver como funciona si le damos el doble de prioridad a la máquina:
 ![](http://i.imgur.com/w0Pgp8C.png)
 
 
-Ahora hemos probado a instalar Haproxy en el balanceador, previamente parando el sevicio nginx.
-
-![](http://i.imgur.com/VwECSrk.png)
-
-![](http://i.imgur.com/lIViFXZ.png)
 
 
-Y aquí comprobamos como funciona bien, al igual que Nginx:
-
-
-![](http://i.imgur.com/ASxMim6.png)
 
 
 

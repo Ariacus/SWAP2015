@@ -24,3 +24,34 @@ Otra comparativa de otros balanceadores, ésta realizada por kemptechnologies:
 
 ![](http://i.imgur.com/28ZBifr.png)
  
+
+***Buscar información sobre los métodos de balanceo que implementan los dispositivos recogidos en el ejercicio 4.2***
+
+La familia de los Enterprise acepta los siguientes algoritmos de balanceo:
+
+Scheduling and Balancing Methods:
+-Round Robin
+-Weighted Round Robin
+-Least Connection
+-Weighted Least Connection
+-Agent-based Adaptive
+-Chained Failover (Fixed Weighting)
+
+La familia de los LM utiliza:
+
+-Round Robin
+-Weighted Round Robin
+-Least Connection
+-Weighted Least Connection
+-Agent-based Adaptive
+-Chained Failover (Fixed Weighting)
+-Source-IP Hash 
+
+
+***Instala y configura en una máquina virtual el balanceador ZenLoadBalancer.***
+
+
+
+
+
+
