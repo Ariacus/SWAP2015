@@ -1,0 +1,25 @@
+Preguntas tipo test:
+
+1. El tráfico HTTP es aquel que...
+
+	a. Consume ancho de banda intensivamente y genera muchas conexiones por segundo. 
+
+	b.Tras una conexión inicial (ya que usa UDP como protocolo), se envía una gran cantidad de información. 
+
+	c. La velocidad es el factor más importante
+
+	d. Se forma cuando coges la A-44 a las 8:30 de la mañana
+
+	Respuesta correcta: a
+
+2. A la hora de ejecutar Apache Benchmark...
+
+	a. Es interesante realizarlo un número reducido de veces, ya que si lo ejecutamos demasiados, saturaremos el servidor y los resultados no serán fiables
+
+	b. Es interesante realizarlo un gran número de veces para que los resultados sean lo mas realistas posibles.
+
+	c. Los resultados no son fiables ya que Apache Benchmark manipula los resultados según su antojo.
+
+	d. Todas las anteriores son falsas.
+
+	Respuesta correcta: b
