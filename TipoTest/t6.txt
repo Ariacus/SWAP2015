@@ -1,0 +1,26 @@
+Preguntas tipo test:
+
+1. ¿Por que es importante para asegurar un servidor eliminar cuentas y grupos de usuarios no necesarios?
+
+	a. Porque esos usuarios podrán entrar en otro momento cuando no estés en la empresa
+
+	b. Porque ocupan espacio y eso hace mas inseguro nuestro servidor
+
+	c. Porque las cuentas por defecto pueden ser aprovechadas fácilmente por cualquier hacker malicioso
+
+	d. Ninguna es correcta
+
+	Respuesta correcta: c
+
+2. ¿Que prácticas son recomendadas para mantener la seguridad de nuestro servidor?
+
+	a. Tener un sistema de copias de seguridad automatizado
+
+	b. Que el software de copia de seguridad  verifique los datos una vez grabados.
+
+	c. Guardar las copias de seguridad en un lugar seguro, como en un local diferente al que alberga los servidores.
+
+	d. Todas las anteriores son correctas.
+
+	Respuesta correcta: d
+
