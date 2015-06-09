@@ -24,5 +24,8 @@ Preguntas tipo test:
 
 	Respuesta correcta: d
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 9c2ef079b27cbb25f33b4c73411a467faa9bb19e
