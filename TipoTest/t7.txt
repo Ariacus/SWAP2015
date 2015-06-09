@@ -1,0 +1,28 @@
+Preguntas tipo test:
+
+1. ¿Que tipo de raid utilizarías en caso de que necesitases enorme espacio de almacenamiento y necesitases que fuese rápido?
+
+	a. RAID0
+
+	b. RAID1
+
+	c. RAID5
+
+	d. Ninguna es correcta
+
+	Respuesta correcta: a
+
+2. ¿Que tipo de raid utilizarías para montar un NFS?
+
+	a. RAID0
+
+	b. RAID1
+
+	c. RAID5
+
+	d. Ninguna es correcta
+
+	Respuesta correcta: a
+
+
+

@@ -1,0 +1,27 @@
+Preguntas tipo test:
+
+1. ¿Cual es la red de baja latencia mas utilizada hoy en día?
+
+	a. Ethrnet
+
+	b. Myrinet
+
+	c. InfiniBand
+
+	d. Ninguna es correcta
+
+	Respuesta correcta: b
+
+2. ¿Cual es la red de mas bajo coste?
+
+	a. Ethernet
+
+	b. Myrinet
+
+	c. InfiniBand
+
+	d. Ninguna es correcta
+
+	Respuesta correcta: a
+
+
